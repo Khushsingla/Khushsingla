@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/6c02e8eb-1813-42c1-a080-948dba0c1f99)![logo]()
 <h1 align="center">Hi 👋, I'm Utsav Singla</h1>
 <h3 align="center">Passionate IT Undergrad from NIT Jalandhar</h3>
 <br>
